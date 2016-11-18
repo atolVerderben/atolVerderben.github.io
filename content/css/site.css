@@ -1,0 +1,8 @@
+div.outer {
+    width: 100%;
+}
+
+div.inner {
+    margin: 0 auto;
+    width: 50%;
+}
